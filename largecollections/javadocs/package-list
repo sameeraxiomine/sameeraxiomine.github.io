@@ -1,13 +1,1 @@
-com.axiomine.largecollections
-com.axiomine.largecollections.benchmark
-com.axiomine.largecollections.customutil
-com.axiomine.largecollections.generator
-com.axiomine.largecollections.generator.client
-com.axiomine.largecollections.kryo.serializers
-com.axiomine.largecollections.serdes
-com.axiomine.largecollections.serdes.kryo
-com.axiomine.largecollections.turboutil
 com.axiomine.largecollections.util
-com.axiomine.largecollections.utilities
-samples.com.axiomine.largecollections.turboutil
-samples.com.axiomine.largecollections.util
